@@ -111,7 +111,7 @@ Add a config.env file in the root directory and enter your MongoDb Atlas and JWT
 The format of .env file should be similar to the following
 ```
 CONNECTION_URL = "Mongo db url"
-JWT_SECRET = "This could be anything like test"
+JWT_SECRET = "secret"
 ```
 To start the server in development mode
 
